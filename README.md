@@ -267,12 +267,6 @@ async def send_with_retry(chat_id, message, max_retries=3):
 - Respeta los límites de mensajes de Telegram
 - Implementa rate limiting para evitar bloqueos
 
----
-
-## 🤝 Contribuciones
-
-¿Agregaste nuevas funcionalidades?
-¡Abre un Pull Request!
 
 ---
 
